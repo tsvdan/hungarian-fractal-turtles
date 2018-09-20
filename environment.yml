@@ -1,0 +1,10 @@
+name: L-systems
+channels:
+    - damianavila82
+    - conda-forge
+dependencies:
+    - python
+    - numpy
+    - cairo
+    - pycairo
+    
